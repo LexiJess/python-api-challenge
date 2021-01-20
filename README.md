@@ -1,4 +1,4 @@
-As usual, this assignment was challenging. I had to learn some new things and do a fair amount of desperate texting to code-savvy friends. I learned .tolist() and zip(), which both seem like they might be very useful things to have in the toolbox. I'm still struggling with the plots. Labelling and creating the proper dimensions for the plots/charts is tricky. I can get them to happen sometimes, but not others. 
+Exploring weather trends across the globe using matplotlib, pandas, and python. 
 
 Analyses:
 1.My favorite trend of this data set is the "Max Temp v Latitude." There's a beautiful cresecent shape that shows that temperatures increase as latitude approaches 0, from either positive or negative numbers. This reflects the change from arctic to temperatate to tropical zones on the globe. It's also fun to see that there are fewer data points in the negative numbers of the y axis, which corresponds to the fact that there are notably fewer cities in the Southern Hemisphere. The graph looks like a flock of swallows in flight. 
